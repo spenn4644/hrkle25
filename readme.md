@@ -1,1 +1,1 @@
-“Bu benim ilk commit’im
+“Bu benim ilk commit’im  
